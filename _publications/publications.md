@@ -3,7 +3,7 @@ title: "Publications"
 redirect_from: 
   - /publications/
 ---
-
+- <span style="color: #4169E1"> Han Zhang, **Chenlin Zhou** </span>, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. [SGLFormer: Spiking Global-Local-Fusion Transformer with High Performance](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1371290/full), ***Frontiers in Neuroscience 2024***. [Code](https://github.com/ZhangHanN1/SGLFormer). 
 - <span style="color: #4169E1"> **Chenlin Zhou** </span>, Liutao Yu, Zhaokun Zhou, Zhengyu Ma, Han Zhang, Huihui Zhou and Yonghong Tian. [Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network](https://arxiv.org/pdf/2304.11954.pdf), ***Arxiv 2023***. [Code](https://github.com/zhouchenlin2096/Spikingformer). 
 - <span style="color: #4169E1"> **Chenlin Zhou** </span>, Han Zhang, Zhaokun Zhou, Liutao Yu, Zhengyu Ma, Huihui Zhou, Xiaopeng Fan and Yonghong Tian. [Enhancing the Performance of Transformer-based Spiking Neural Networks by Improved Downsampling with Precise Gradient Backpropagation](https://arxiv.org/pdf/2305.05954.pdf), ***Arxiv 2023***. [Code](https://github.com/zhouchenlin2096/Spikingformer-CML).
 - <span style="color: #4169E1"> **Chenlin Zhou** </span>, Peng Wang, Wei Wei, Guangyun Xu, Fuyu Li, Jia Sun. [Learning Tri-mode Grasping for Ambidextrous Robot Picking](https://arxiv.org/pdf/2302.06431.pdf), ***Arxiv 2023***. [Video](https://www.bilibili.com/video/BV1nW4y1k7D5/?spm_id_from=333.337.search-card.all.click).
