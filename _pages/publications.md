@@ -20,3 +20,7 @@ redirect_from:
 - <span style="color: #4169E1"> **Chenlin Zhou** </span>, Daheng Li, Peng Wang, Jia Sun, Yikun Huang and Wanyi Li. [ACR-Net: Attention Integrated and Cross-spatial Feature Fused Rotation Network for Tubular Solder Joint Detection](https://ieeexplore.ieee.org/abstract/document/9475052/), ***IEEE Transactions on Instrumentation and Measurement, 2021. (SCI Index, 中科院二区, IF: 5.6, Accepted)***. 
 - <span style="color: #4169E1"> **Chenlin Zhou** </span>, Xiaofei Shen, Peng Wang, Wei Wei, Jia Sun, Yongkang Luo, Yiming Li. [Bin-based Vector-predicted Network for Tubular Solder Joint Detection](https://www.sciencedirect.com/science/article/pii/S0263224121007697), ***Measurement, 2021. (SCI Index, 中科院二区, IF: 5.6, Accepted)***.
 - Yiming Li, Peng Wang, Xiaofei Shen, Jiayuan Liu, Haonan Duan, <span style="color: #4169E1"> **Chenlin Zhou** </span>. [Autonomous Developmental Evolutionary Learning for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/9515679). ***IEEE International Conference on Development and Learning, ICDL 2021. (Accepted)***.
+- 视频动作分类方法、装置、设备和存储介质[P]. 广东省: CN202410232129. 9, 2024-05-14.
+- 带角度估计的管线焊点深度学习视觉检测方法[P]. 发明专利, 20210181248.2, 2021. 
+- 多层无避让式立体停车库[P]. 发明专利, CN201711424700.3, 2017. 
+- 基于RFID技术的超市购物车及超市购物系统[P]. 实用新型专利, CN201720507746, 2017
