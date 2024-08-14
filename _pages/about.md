@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, welcome to my website! I am currently an engineer at [Peng Cheng Laboratory](https://www.pcl.ac.cn/), Shenzhen, China. Before that, I received my Master’s Degree from University of Chinese Academy of Sciences in 2022. 
+Hello, welcome to my website! I am an engineer at [Peng Cheng Laboratory](https://www.pcl.ac.cn/), Shenzhen, China. Before that, I received my Master’s Degree from the University of Chinese Academy of Sciences in 2022. 
 
-My current research interests mainly focus on Spiking Neural Network, AI Foundation Model, Computer Vision, and Robot grasping. 
+My current research interests mainly focus on the Spiking Neural Network, AI Foundation Model, Computer Vision, and Robot grasping. 
 
-Feel free to catch me if interested to discuss ideas or work together. 
+Feel free to contact me! 
 
 
 News
 ======
-[10/2022] I joined Peng Cheng Laboratory as research engineer.
+[10/2022] I joined Peng Cheng Laboratory as a research engineer.
 
 [08/2022] Graduated from UCAS.
 
