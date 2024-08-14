@@ -20,11 +20,11 @@ Feel free to contact me if you are interested in my research!
 
 News
 ======
-[10/2022] I joined [Peng Cheng Laboratory](https://www.pcl.ac.cn/) as a research engineer.
+[2022] I joined [Peng Cheng Laboratory](https://www.pcl.ac.cn/) as a research engineer.
 
-[08/2022] Graduated from [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/).
+[2022] Graduated from [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/).
 
-[06/2021] One paper is accepted by [IEEE Transactions on Instrumentation and Measurement (TIM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19).
+[2021] One paper is accepted by [IEEE Transactions on Instrumentation and Measurement (TIM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19).
 
 
 
