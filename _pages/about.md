@@ -26,7 +26,9 @@ News
 
 [06/2021] One paper is accepted by IEEE Trans. Instrum. Meas.
 
-Selected Publications
+
+
+Publications
 ======
 - **Chenlin Zhou**, Han Zhang, Zhaokun Zhou, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. [Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods](https://arxiv.org/pdf/2405.04289), ***Frontiers in Neuroscience, 2024.***
 - Han Zhang, **Chenlin Zhou**, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. [SGLFormer: Spiking Global-Local-Fusion Transformer with High Performance](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1371290/full), ***Frontiers in Neuroscience, 2024.*** [Code](https://github.com/ZhangHanN1/SGLFormer). 
