@@ -17,11 +17,12 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 See more info at https://academicpages.github.io/
 
 # Locations of key files/directories
-Basic config options: _config.yml
 
-Top navigation bar config: _data/navigation.yml
+**Basic config options: _config.yml**
 
-Single pages: _pages/
+**Top navigation bar config: _data/navigation.yml**
+
+**Single pages: _pages/** (all the pages can be edited in _pages/)
 
 Collections of pages are .md or .html files in:
 
