@@ -20,6 +20,7 @@ News
 
 [08/2022] Graduated from UCAS.
 
+[06/2021] One paper is accepted by IEEE Trans. Instrum. Meas.
 
 Selected Publications
 ======
