@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 redirect_from:
-  - /Talks
+  - /talks
 ---
 {% include base_path %}
 
