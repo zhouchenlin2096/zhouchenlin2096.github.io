@@ -10,9 +10,9 @@ redirect_from:
 Hello, welcome to my website! I am an engineer at [Peng Cheng Laboratory](https://www.pcl.ac.cn/), Shenzhen, China. Before that, I received my Master’s Degree from the University of Chinese Academy of Sciences in 2022. 
 
 My current research interests mainly focus on: 
-- Efficient Model: A trade-off between computation and accuracy.
-- Brain-inspired model & computing, AI Foundation Model.
-- Event-data processing.
+- Efficient LLM: A trade-off between computation and accuracy.
+- Brain-inspired computing & AI Foundation Model.
+- Event-data modeling and processing.
 
 Feel free to contact me if you are interested in my research! 
 
