@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Hello, welcome to my website! I am an engineer at [Peng Cheng Laboratory](https://www.pcl.ac.cn/), Shenzhen, China. Before that, I received my Master's degree from 
-[University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) & [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) in 2022. 
+[University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) / studied in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), Beijing, China in 2022. 
 
 My current research interests mainly focus on: 
 - **Efficient AI (LLM, LVM, etc.): a trade-off between computation and accuracy.**
