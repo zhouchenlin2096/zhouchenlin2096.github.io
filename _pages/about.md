@@ -12,7 +12,7 @@ Hello, welcome to my website! I am an engineer at [Peng Cheng Laboratory](https:
 
 My current research interests mainly focus on: 
 - **Efficient AI (LLM, LVM, etc.): a trade-off between computation and accuracy.**
-- **Brain-inspired computing & AI Foundation Model.**
+- **Brain-inspired computing & AI foundation model.**
 - **Event-data modeling and processing.**
 
 Feel free to contact me if you are interested in my research! 
