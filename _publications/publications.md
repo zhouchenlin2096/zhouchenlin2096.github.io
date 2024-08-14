@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /publications/
 ---
-
-
 - <span style="color: #4169E1"> **Chenlin Zhou** </span>, Han Zhang, Zhaokun Zhou, Li Yuan, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. [Hierarchical Spiking Transformer using Q-K Attention](https://arxiv.org/pdf/2403.16552), ***NeurIPS 2024. (Under Review)***. [Code](https://github.com/zhouchenlin2096/QKFormer). 
 - <span style="color: #4169E1"> **Chenlin Zhou** </span>, Han Zhang, Zhaokun Zhou, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian.. [Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods](https://arxiv.org/pdf/2405.04289), ***Frontiers in Neuroscience 2024. (Under Review)***. 
 - <span style="color: #4169E1"> Han Zhang, **Chenlin Zhou** </span>, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. [SGLFormer: Spiking Global-Local-Fusion Transformer with High Performance](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1371290/full), ***Frontiers in Neuroscience 2024. (SCI Index, IF: 4.3, Accepted)***. [Code](https://github.com/ZhangHanN1/SGLFormer). 
