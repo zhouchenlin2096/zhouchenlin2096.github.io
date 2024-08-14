@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,7 +24,7 @@ News
 
 [08/2022] Graduated from UCAS.
 
-[06/2021] One paper is accepted by IEEE Trans. Instrum. Meas.
+[06/2021] One paper is accepted by [IEEE Transactions on Instrumentation and Measurement (TIM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19).
 
 
 
