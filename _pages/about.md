@@ -11,7 +11,7 @@ Hello, welcome to my website! I am an engineer at [Peng Cheng Laboratory](https:
 
 My current research interests mainly focus on: 
 - Efficient Model: A trade-off between computation and accuracy.
-- Brain-inspired model/computing, AI Foundation Model.
+- Brain-inspired model & computing, AI Foundation Model.
 - Event-data processing.
 
 Feel free to contact me if you are interested in my research! 
