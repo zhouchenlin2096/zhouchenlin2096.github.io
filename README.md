@@ -4,7 +4,7 @@
 
 **Top navigation bar config: _data/navigation.yml**
 
-**Single pages: _pages/** (all the pages can be edited in _pages/)
+**Single pages: _pages/ (all the pages can be edited in _pages/)**
 
 Collections of pages are .md or .html files in:
 
