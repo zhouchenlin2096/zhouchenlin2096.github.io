@@ -28,7 +28,8 @@ News
 
 
 
-Publications
+## 📝 Publications 
+{: #publications .section-title }
 ======
 - **Chenlin Zhou**, Han Zhang, Zhaokun Zhou, Li Yuan, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. [Hierarchical Spiking Transformer using Q-K Attention](https://arxiv.org/pdf/2403.16552v2), ***NeurIPS 2024 (Spotlight, 3%).*** [Code](https://github.com/zhouchenlin2096/QKFormer). 
 - **Chenlin Zhou**, Han Zhang, Zhaokun Zhou, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. [Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods](https://arxiv.org/pdf/2405.04289), ***Frontiers in Neuroscience, 2024.***
