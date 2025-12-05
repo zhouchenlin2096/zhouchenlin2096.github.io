@@ -115,6 +115,12 @@ body, .page__content {
                "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.7;
+  /* 新增：让内容区更宽并居中 */
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 /* 二级标题样式：左侧 emoji，右侧浅灰分隔线 */
