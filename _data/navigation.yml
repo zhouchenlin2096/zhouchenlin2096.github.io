@@ -15,8 +15,11 @@ main:
   - title: "Academic Service"
     url: "/#academic-service"
 
-  - title: "Welcome Visitors"
-    url: "/#visitors"
+  - title: "Contact me"
+    url: "/#Contact-me"
+
+#  - title: "Welcome Visitors"
+#    url: "/#visitors"
 
 
     
