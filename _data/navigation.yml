@@ -3,12 +3,12 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Publications"
-    url: "/#publications"
-
   - title: "News"
     url: "/#News"
     
+  - title: "Publications"
+    url: "/#publications"
+
   - title: "Education"
     url: "/#Education"
 
