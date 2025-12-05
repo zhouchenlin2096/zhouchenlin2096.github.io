@@ -5,6 +5,20 @@ main:
 
   - title: "Publications"
     url: "/#publications"
+
+  - title: "News"
+    url: "/#News"
+    
+  - title: "Education"
+    url: "/#Education"
+
+  - title: "Academic Service"
+    url: "/#academic-service"
+
+  - title: "Welcome Visitors"
+    url: "/#visitors"
+
+
     
 #main:
 #  - title: "Publications"
