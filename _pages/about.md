@@ -23,7 +23,6 @@ Feel free to contact me if you are interested in my research!
 ## News
 {: #News .section-title }
 
-======
 [2022] I joined [Peng Cheng Laboratory](https://www.pcl.ac.cn/) as a research engineer.
 
 [2022] Graduated from [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/).
@@ -45,7 +44,6 @@ Feel free to contact me if you are interested in my research!
 
 ## Education
 {: #education .section-title }
-
 
 <div class="edu-container">
 
