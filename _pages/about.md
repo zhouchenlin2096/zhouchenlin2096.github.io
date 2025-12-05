@@ -51,7 +51,6 @@ Feel free to contact me if you are interested in my research!
   <div class="edu-item">
     <!-- <div class="edu-left">
       <img src="../images/logo_hitsz.png" class="edu-logo">
-      <img src="../images/logo_pcl.png" class="edu-logo">
     </div> -->
     <div class="edu-text">
       <strong>Harbin Institute of Technology, Shenzhen (HITSZ) & Pengcheng Laboratory (PCL)</strong>  
