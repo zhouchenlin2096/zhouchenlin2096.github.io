@@ -108,6 +108,12 @@ Neuromorphic Computing and Engineering (NCE); IEEE TNSRE; IEEE TIM; Biomedical S
 </a>
 
 
+## Contact
+{: #Contact-me .section-title }
+- E-mail: zhouchl@pcl.ac.cn or zhouchenlin19@mails.ucas.ac.cn
+- WeChat: TVSTFE
+
+
 <style>
 /* 整体正文字体风格：优先使用 Inter，其次系统字体 */
 body, .page__content {
@@ -201,12 +207,6 @@ body, .page__content {
   flex-shrink: 0;
 }
 </style> 
-
-
-Contact
-======
-- E-mail: zhouchl@pcl.ac.cn or zhouchenlin19@mails.ucas.ac.cn
-- WeChat: TVSTFE
 
 
 
