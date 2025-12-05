@@ -49,10 +49,10 @@ Feel free to contact me if you are interested in my research!
 
   <!-- PhD -->
   <div class="edu-item">
-    <div class="edu-left">
+    <!-- <div class="edu-left">
       <img src="../images/logo_hitsz.png" class="edu-logo">
       <img src="../images/logo_pcl.png" class="edu-logo">
-    </div>
+    </div> -->
     <div class="edu-text">
       <strong>Harbin Institute of Technology, Shenzhen (HITSZ) & Pengcheng Laboratory (PCL)</strong>  
       <br> Ph.D. in Computer Science and Technology (Joint Program)  
@@ -62,9 +62,9 @@ Feel free to contact me if you are interested in my research!
 
   <!-- Master -->
   <div class="edu-item">
-    <div class="edu-left">
+    <!-- <div class="edu-left">
       <img src="../images/logo_jlu.png" class="edu-logo">
-    </div>
+    </div> -->
     <div class="edu-text">
       <strong>Jilin University (JLU)</strong>  
       <br> M.Eng. in Control Science and Engineering  
@@ -74,9 +74,9 @@ Feel free to contact me if you are interested in my research!
 
   <!-- Bachelor -->
   <div class="edu-item">
-    <div class="edu-left">
+    <!-- <div class="edu-left">
       <img src="../images/logo_neepu.png" class="edu-logo">
-    </div>
+    </div> -->
     <div class="edu-text">
       <strong>Northeast Electric Power University (NEEPU)</strong>  
       <br> B.Eng. in Automation  
@@ -114,7 +114,7 @@ Neuromorphic Computing and Engineering (NCE); IEEE TNSRE; IEEE TIM; Biomedical S
 body, .page__content {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                "Helvetica Neue", Arial, sans-serif;
-  font-size: 17px;
+  font-size: 12px;
   line-height: 1.7;
 }
 
