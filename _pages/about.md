@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, welcome to my website! I am an engineer at [Peng Cheng Laboratory](https://www.pcl.ac.cn/), Shenzhen, China. Before that, I received my Master's degree from 
-[University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) / studied in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), Beijing, China in 2022. 
+Hello, welcome to my website! I am a phd student at [Peking University](https://www.pku.edu.cn/). Before that, I work at [Peng Cheng Laboratory](https://www.pcl.ac.cn/) as an engineer.  I received my Master's degree from 
+[University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) / studied in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) in 2022. 
 
 ###  Call for Collaboration
 
@@ -26,7 +26,7 @@ Feel free to contact me if you are interested in my research!
 
 [2022] I joined [Peng Cheng Laboratory](https://www.pcl.ac.cn/) as a research engineer.
 
-[2022] Graduated from [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/).
+[2022] Graduated from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/).
 
 
 
