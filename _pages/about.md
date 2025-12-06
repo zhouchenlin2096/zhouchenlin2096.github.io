@@ -33,6 +33,10 @@ Feel free to contact me if you are interested in my research!
 ## Publications 
 {: #publications .section-title }
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026</span> [
+SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition](https://arxiv.org/abs/2511.07883v1),
+   Jiaqi Wang, Liutao Yu, Xiongri Shen, Sihang Guo, <ins>**Chenlin Zhou**</ins>, Leilei Zhao, Yi Zhong, Zhiguo Zhang\*, Zhengyu Ma\*  <br>
+
 - **Chenlin Zhou**, Han Zhang, Zhaokun Zhou, Li Yuan, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. [Hierarchical Spiking Transformer using Q-K Attention](https://arxiv.org/pdf/2403.16552v2), ***NeurIPS 2024 (Spotlight, 3%).*** [Code](https://github.com/zhouchenlin2096/QKFormer). 
 - **Chenlin Zhou**, Han Zhang, Zhaokun Zhou, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. [Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods](https://arxiv.org/pdf/2405.04289), ***Frontiers in Neuroscience, 2024.***
 - Han Zhang, **Chenlin Zhou**, Zhengyu Ma, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. [SGLFormer: Spiking Global-Local-Fusion Transformer with High Performance](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1371290/full), ***Frontiers in Neuroscience, 2024.*** [Code](https://github.com/ZhangHanN1/SGLFormer). 
