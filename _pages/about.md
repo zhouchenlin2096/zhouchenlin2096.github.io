@@ -129,6 +129,10 @@ body, .page__content {
   padding-right: 200px;   */
 }
 
+body.home .page__content {
+  padding-left: 200px !important;
+}
+
 /* 二级标题样式：左侧 emoji，右侧浅灰分隔线 */
 .section-title {
   font-size: 20px;
