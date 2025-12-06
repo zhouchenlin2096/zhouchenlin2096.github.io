@@ -91,14 +91,9 @@ Feel free to contact me if you are interested in my research!
 
 I have experience in reviewing for high-impact AI conferences and journals, including:  
 
-**Conferences:**  
+AAAI; NeurIPS; ICLR; ACM MM; IJCAI; ICME; ICRA
 
-AAAI 2026 (Program Committee); ICLR 2026 (Invited); ACL ARR 2025 (Feb/May/July/Oct, Invited); ICME 2026 (Invited); ICLR 2025; ICME 2025; ACM MM 2024; ICASSP 2023.
-
-**Journals:**
-
-Neuromorphic Computing and Engineering (NCE); IEEE TNSRE; IEEE TIM; Biomedical Signal Processing and Control (BSPC)
-
+IEEE TIM; Neurocomputing 
 
 ## Welcome Visitors
 {: #visitors .section-title }
