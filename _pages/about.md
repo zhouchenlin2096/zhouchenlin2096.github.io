@@ -125,8 +125,8 @@ body, .page__content {
   max-width: 1800px;
   margin-left: auto;
   margin-right: auto; 
-  /* padding-left: 24px;
-  padding-right: 24px;  */
+  padding-left: 24px;
+  padding-right: 24px;  
 }
 
 /* 二级标题样式：左侧 emoji，右侧浅灰分隔线 */
