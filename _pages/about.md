@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, welcome to my website! I am currently a Ph.D. student at [Peking University](https://www.pku.edu.cn/). Before this, I worked as an engineer at [Pengcheng Laboratory](https://www.pcl.ac.cn/).  I received my Master's degree from 
+Hello, welcome to my website! I am currently a Ph.D. student at [Peking University](https://www.pku.edu.cn/), advised by Prof. Prof. [Yonghong Tian](https://ai4s.pkusz.edu.cn/info/1049/1208.htm). Before this, I worked as an engineer at [Pengcheng Laboratory](https://www.pcl.ac.cn/).  I received my Master's degree from 
 [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) / studied in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) in 2022. 
 
 ###  Call for Collaboration
