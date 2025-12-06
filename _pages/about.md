@@ -53,7 +53,7 @@ Feel free to contact me if you are interested in my research!
       <img src="../images/logo_hitsz.png" class="edu-logo">
     </div> -->
     <div class="edu-text">
-      <strong>Peking university (PKU) & </strong>  
+      <strong>Peking university (PKU)  </strong>  
       <br> Ph.D. in computer Science  
       <br> 2025 – Present
     </div>
