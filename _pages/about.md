@@ -22,12 +22,12 @@ Feel free to contact me if you are interested in my research!
 
 ## News
 {: #News .section-title }
+[2025] I became a Phd student at [Peking University](https://www.pku.edu.cn/).
 
 [2022] I joined [Peng Cheng Laboratory](https://www.pcl.ac.cn/) as a research engineer.
 
 [2022] Graduated from [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/).
 
-[2021] One paper is accepted by [IEEE Transactions on Instrumentation and Measurement (TIM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19).
 
 
 ## Publications 
@@ -75,8 +75,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
     </div> -->
     <div class="edu-text">
       <strong>Peking university (PKU)  </strong>  
-      <br> Ph.D. in computer Science  
-      <br> 2025 – Present
+      <br> Ph.D. in computer Science, 2025 – Present
     </div>
   </div>
 
@@ -87,8 +86,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
     </div> -->
     <div class="edu-text">
       <strong>Pengcheng Laboratory (PCL)</strong>  
-      <br> Algorithm Engineer  
-      <br> 2022 – 2025
+      <br> Algorithm Engineer, 2022 – 2025
     </div>
   </div>
 
@@ -99,8 +97,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
     </div> -->
     <div class="edu-text">
       <strong>University of Chinese Academy of Sciences (UCAS)</strong>  
-      <br> M.Eng. in computer Science  
-      <br> 2019 – 2022
+      <br> M.Eng. in computer Science, 2019 – 2022
     </div>
   </div>
 
@@ -111,8 +108,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
     </div> -->
     <div class="edu-text">
       <strong>ChongQing JiaoTong University (CQJTU)</strong>  
-      <br> B.Eng. in Automation  
-      <br> 2015 – 2019
+      <br> B.Eng. in Automation, 2015 – 2019
     </div>
   </div>
 
@@ -124,9 +120,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 
 I have experience in reviewing for high-impact AI conferences and journals, including:  
 
-AAAI, NeurIPS, ICLR, ACM MM, IJCAI, ICME, ICRA
-
-IEEE TIM, Neurocomputing 
+AAAI, NeurIPS, ICLR, ACM MM, IJCAI, ICME, ICRA; IEEE TIM, Neurocomputing 
 
 ## Welcome Visitors
 {: #visitors .section-title }
