@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, welcome to my website! I am a phd student at [Peking University](https://www.pku.edu.cn/). Before that, I work at [Pengcheng Laboratory](https://www.pcl.ac.cn/) as an engineer.  I received my Master's degree from 
+Hello, welcome to my website! I am currently a Ph.D. student at [Peking University](https://www.pku.edu.cn/). Before this, I worked as an engineer at [Pengcheng Laboratory](https://www.pcl.ac.cn/).  I received my Master's degree from 
 [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) / studied in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) in 2022. 
 
 ###  Call for Collaboration
@@ -22,7 +22,7 @@ Feel free to contact me if you are interested in my research!
 
 ## News
 {: #News .section-title }
-[2025] I became a Phd student at [Peking University](https://www.pku.edu.cn/).
+[2025] I became a Ph.D. student at [Peking University](https://www.pku.edu.cn/).
 
 [2022] I joined [Pengcheng Laboratory](https://www.pcl.ac.cn/) as a research engineer.
 
@@ -61,63 +61,13 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 
 
 
-
-
 ## Education and Working Experience
 {: #Education .section-title }
 
-- 2025 – Now, Phd student, Peking university
+- 2025 – Now, Ph.D. student, Peking university
 - 2022 – 2025, Research engineer, Pengcheng Laboratory
 - 2019 – 2022, Master, University of Chinese Academy of Sciences
 - 2015 – 2019, Bachelor, ChongQing JiaoTong University
-
-<!-- <div class="edu-container">
-
-  <!-- PhD -->
-  <div class="edu-item">
-    <!-- <div class="edu-left">
-      <img src="../images/logo_hitsz.png" class="edu-logo">
-    </div> -->
-    <div class="edu-text">
-      <strong>Peking university (PKU)  </strong>  
-      <br> Ph.D. in computer Science, 2025 – Present
-    </div>
-  </div>
-
-  <!-- Engineer -->
-  <div class="edu-item">
-    <!-- <div class="edu-left">
-      <img src="../images/logo_jlu.png" class="edu-logo">
-    </div> -->
-    <div class="edu-text">
-      <strong>Pengcheng Laboratory (PCL)</strong>  
-      <br> Algorithm Engineer, 2022 – 2025
-    </div>
-  </div>
-
-  <!-- Master -->
-  <div class="edu-item">
-    <!-- <div class="edu-left">
-      <img src="../images/logo_jlu.png" class="edu-logo">
-    </div> -->
-    <div class="edu-text">
-      <strong>University of Chinese Academy of Sciences (UCAS)</strong>  
-      <br> M.Eng. in computer Science, 2019 – 2022
-    </div>
-  </div>
-
-  <!-- Bachelor -->
-  <div class="edu-item">
-    <!-- <div class="edu-left">
-      <img src="../images/logo_neepu.png" class="edu-logo">
-    </div> -->
-    <div class="edu-text">
-      <strong>ChongQing JiaoTong University (CQJTU)</strong>  
-      <br> B.Eng. in Automation, 2015 – 2019
-    </div>
-  </div>
-
-</div> -->
 
 
 ## Academic Service
