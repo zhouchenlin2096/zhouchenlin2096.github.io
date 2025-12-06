@@ -13,9 +13,9 @@ Hello, welcome to my website! I am currently a Ph.D. student at [Peking Universi
 ###  Call for Collaboration
 
 My current research interests mainly focus on: 
-- **Efficient AI (LLM, LVM, etc.): a trade-off between computation and accuracy.**
-- **Brain-inspired computing & AI foundation model.**
-- **Event-data modeling and processing.**
+- **LLM quantization, sparse, efficient reasoning: pursuing a trade-off between computation and accuracy in Efficient AI.**
+- **Spiking Neural Networks, Spiking Transformer, Brain-inspired computing**
+- **Event-data modeling and processing, Neuromorphic computing**
 
 Feel free to contact me if you are interested in my research! 
 
