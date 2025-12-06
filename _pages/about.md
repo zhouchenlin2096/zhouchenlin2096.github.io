@@ -64,7 +64,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 ## Education and Working Experience
 {: #Education .section-title }
 
-- 2025 – Now, Ph.D. student, Peking university
+- 2025 – Now, Ph.D. student, Peking University
 - 2022 – 2025, Research engineer, Pengcheng Laboratory
 - 2019 – 2022, Master, University of Chinese Academy of Sciences
 - 2015 – 2019, Bachelor, ChongQing JiaoTong University
