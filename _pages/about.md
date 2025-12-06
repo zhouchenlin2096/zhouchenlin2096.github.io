@@ -22,11 +22,11 @@ Feel free to contact me if you are interested in my research!
 
 ## News
 {: #News .section-title }
-[2025] I became a Ph.D. student at [Peking University](https://www.pku.edu.cn/).
+- [2025] I became a Ph.D. student at [Peking University](https://www.pku.edu.cn/).
 
-[2022] I joined [Pengcheng Laboratory](https://www.pcl.ac.cn/) as a research engineer.
+- [2022] I joined [Pengcheng Laboratory](https://www.pcl.ac.cn/) as a research engineer.
 
-[2022] Graduated from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/).
+- [2022] Graduated from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/).
 
 
 
