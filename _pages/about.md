@@ -122,11 +122,11 @@ body, .page__content {
   font-size: 16px;
   line-height: 1.7;
   /* 新增：让内容区更宽并居中*/
-  max-width: 1800px;
+  max-width: 1500px;
   margin-left: auto;
   margin-right: auto; 
-  padding-left: 200px;
-  padding-right: 200px;  
+  /* padding-left: 200px;
+  padding-right: 200px;   */
 }
 
 /* 二级标题样式：左侧 emoji，右侧浅灰分隔线 */
