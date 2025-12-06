@@ -17,9 +17,7 @@ My current research interests mainly focus on:
 
 ###  Call for Collaboration
 
-Open to any discussion or cooperation, feel free to contact me! 
-
-E-mail: chenlinzhou25@stu.pku.edu.cn;     WeChat: TVSTFE
+Open to any discussion or cooperation, feel free to contact me! E-mail: chenlinzhou25@stu.pku.edu.cn;     WeChat: TVSTFE
 
 
 ## News
