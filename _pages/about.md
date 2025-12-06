@@ -33,16 +33,34 @@ Feel free to contact me if you are interested in my research!
 ## Publications 
 {: #publications .section-title }
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026 Oral</span> [Spikingformer: A Key Foundation Model for Spiking Neural Networks](https://openreview.net/forum?id=SmZTeHYlCa&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)),
+ <ins>**Chenlin Zhou**</ins>, Liutao Yu, Zhaokun Zhou, Han Zhang, Jiaqi Wang, Huihui Zhou, Zhengyu Ma\*, Yonghong Tian\*
+
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026</span> [
 SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition](https://arxiv.org/abs/2511.07883v1),
-   Jiaqi Wang, Liutao Yu, Xiongri Shen, Sihang Guo, <ins>**Chenlin Zhou**</ins>, Leilei Zhao, Yi Zhong, Zhiguo Zhang\*, Zhengyu Ma\*  <br>
+   Jiaqi Wang, Liutao Yu, Xiongri Shen, Sihang Guo, <ins>**Chenlin Zhou**</ins>, Leilei Zhao, Yi Zhong, Zhiguo Zhang, Zhengyu Ma  <br>
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2025</span> [
+S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://arxiv.org/abs/2508.05164),
+   Jiaqi Wang, Zhengyu Ma\*, Xiongri Shen, <ins>**Chenlin Zhou**</ins>, Leilei Zhao, Han Zhang, Yi Zhong, Siqi Cai, Zhenxi Song, Zhiguo Zhang\* <br>
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Neural Networks</span> [Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation](https://arxiv.org/abs/2412.12858),
+   Jiaqi Wang,  Liutao Yu, Liwei Huang, <ins>**Chenlin Zhou**</ins>, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma\*, Zhiguo Zhang\* <br>
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2024</span> [Hierarchical Spiking Transformer using Q-K Attention](https://arxiv.org/pdf/2403.16552v2),
-   **Chenlin Zhou**, Han Zhang, Zhaokun Zhou, Zhengyu Ma\*, Xiaopeng Fan, Huihui Zhou\*, and Yonghong Tian\*.  <br>
+   <ins>**Chenlin Zhou**</ins>, Han Zhang, Zhaokun Zhou, Liutao Yu, Liwei Huang, Li Yuan,  Zhengyu Ma\*, Xiaopeng Fan, Huihui Zhou\*, and Yonghong Tian\*.  <br>
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Frontiers in Neuroscience, 2024.</span>[Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods](https://arxiv.org/pdf/2405.04289),
+   <ins>**Chenlin Zhou**</ins>, Han Zhang, Liutao Yu, Yumin Ye, Zhaokun Zhou, Liwei Huang, Zhengyu Ma\*, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. <br>
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TIM</span> [ACR-Net: Attention Integrated and Cross-spatial Feature Fused Rotation Network for Tubular Solder Joint Detection](https://ieeexplore.ieee.org/abstract/document/9475052/),
-   **Chenlin Zhou**, Daheng Li, Peng Wang\*, Jia Sun, Yikun Huang and Wanyi Li.  <br>
-   ***IEEE Transactions on Instrumentation and Measurement, 2021.***
+   <ins>**Chenlin Zhou**</ins>, Daheng Li, Peng Wang\*, Jia Sun, Yikun Huang and Wanyi Li.  <br>  IEEE Transactions on Instrumentation and Measurement, 2021.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Measurement</span> [Bin-based Vector-predicted Network for Tubular Solder Joint Detection](https://www.sciencedirect.com/science/article/pii/S0263224121007697),
+   <ins>**Chenlin Zhou**</ins>, Xiaofei Shen, Peng Wang\*, Wei Wei, Jia Sun, Yongkang Luo, Yiming Li.  <br>
+
+
 
 
 
