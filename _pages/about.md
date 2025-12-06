@@ -9,14 +9,17 @@ redirect_from:
 ---
 Hello, welcome to my website! I am currently a Ph.D. student at [Peking University](https://www.pku.edu.cn/), advised by Prof.[Yonghong Tian](https://ai4s.pkusz.edu.cn/info/1049/1208.htm). Before this, I worked as an engineer at [Pengcheng Laboratory](https://www.pcl.ac.cn/).  I received my Master's degree from University of Chinese Academy of Sciences / studied in [Institute of Automation](http://www.ia.cas.cn/),Chinese Academy of Sciences in 2022, under the supervision of Prof.[Peng Wang](https://ia.cas.cn/rcdw/qch/202404/t20240422_7129917.html).
 
-###  Call for Collaboration
 
 My current research interests mainly focus on: 
-- **LLM quantization, sparse, efficient reasoning: pursuing a trade-off between computation and accuracy in Efficient AI.**
-- **Spiking Neural Networks, Spiking Transformer, Brain-inspired computing**
+- **LLM quantization, sparse, efficient reasoning**
+- **Spiking Neural Networks, Spiking Transformers, Brain-inspired computing**
 - **Event-data modeling and processing, Neuromorphic computing**
 
-Feel free to contact me if you are interested in my research! 
+###  Call for Collaboration
+
+Open to any discussion or cooperation, feel free to contact me! 
+
+E-mail: chenlinzhou25@stu.pku.edu.cn       WeChat: TVSTFE
 
 
 ## News
@@ -78,7 +81,6 @@ AAAI, NeurIPS, ICLR, ACM MM, IJCAI, ICME, ICRA; IEEE TIM, Neurocomputing
 ## Contact
 {: #Contact-me .section-title }
 - E-mail: zhouchl@pcl.ac.cn or zhouchenlin19@mails.ucas.ac.cn
-- WeChat: TVSTFE
 
 
 <style>
