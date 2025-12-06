@@ -53,9 +53,21 @@ Feel free to contact me if you are interested in my research!
       <img src="../images/logo_hitsz.png" class="edu-logo">
     </div> -->
     <div class="edu-text">
-      <strong>Harbin Institute of Technology, Shenzhen (HITSZ) & Pengcheng Laboratory (PCL)</strong>  
-      <br> Ph.D. in Computer Science and Technology (Joint Program)  
-      <br> 2023 – Present
+      <strong>Peking university (PKU) & </strong>  
+      <br> Ph.D. in computer Science  
+      <br> 2025 – Present
+    </div>
+  </div>
+
+  <!-- Engineer -->
+  <div class="edu-item">
+    <!-- <div class="edu-left">
+      <img src="../images/logo_jlu.png" class="edu-logo">
+    </div> -->
+    <div class="edu-text">
+      <strong>Pengcheng Laboratory (PCL)</strong>  
+      <br> Algorithm Engineer  
+      <br> 2022 – 2025
     </div>
   </div>
 
@@ -65,9 +77,9 @@ Feel free to contact me if you are interested in my research!
       <img src="../images/logo_jlu.png" class="edu-logo">
     </div> -->
     <div class="edu-text">
-      <strong>Jilin University (JLU)</strong>  
-      <br> M.Eng. in Control Science and Engineering  
-      <br> 2020 – 2023
+      <strong>University of Chinese Academy of Sciences (UCAS)</strong>  
+      <br> M.Eng. in computer Science  
+      <br> 2019 – 2022
     </div>
   </div>
 
@@ -77,9 +89,9 @@ Feel free to contact me if you are interested in my research!
       <img src="../images/logo_neepu.png" class="edu-logo">
     </div> -->
     <div class="edu-text">
-      <strong>Northeast Electric Power University (NEEPU)</strong>  
+      <strong>ChongQing JiaoTong University (CQJTU)</strong>  
       <br> B.Eng. in Automation  
-      <br> 2016 – 2020
+      <br> 2015 – 2019
     </div>
   </div>
 
@@ -91,9 +103,9 @@ Feel free to contact me if you are interested in my research!
 
 I have experience in reviewing for high-impact AI conferences and journals, including:  
 
-AAAI; NeurIPS; ICLR; ACM MM; IJCAI; ICME; ICRA
+AAAI, NeurIPS, ICLR, ACM MM, IJCAI, ICME, ICRA
 
-IEEE TIM; Neurocomputing 
+IEEE TIM, Neurocomputing 
 
 ## Welcome Visitors
 {: #visitors .section-title }
@@ -122,10 +134,6 @@ body, .page__content {
   margin-right: auto; 
   /* padding-left: 200px;
   padding-right: 200px;   */
-}
-
-body.home .page__content {
-  padding-left: 200px !important;
 }
 
 /* 二级标题样式：左侧 emoji，右侧浅灰分隔线 */
