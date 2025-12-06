@@ -45,7 +45,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
    Jiaqi Wang, Zhengyu Ma\*, Xiongri Shen, <ins>**Chenlin Zhou**</ins>, Leilei Zhao, Han Zhang, Yi Zhong, Siqi Cai, Zhenxi Song, Zhiguo Zhang\* <br>
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Neural Networks 2025</span> [Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation](https://arxiv.org/abs/2412.12858),
-   Jiaqi Wang,  Liutao Yu, Liwei Huang, <ins>**Chenlin Zhou**</ins>, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma\*, Zhiguo Zhang\* <br>
+   Jiaqi Wang,  Liutao Yu, Liwei Huang, <ins>**Chenlin Zhou**</ins>, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma, Zhiguo Zhang <br>
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2024</span> [Hierarchical Spiking Transformer using Q-K Attention](https://arxiv.org/pdf/2403.16552v2),
    <ins>**Chenlin Zhou**</ins>, Han Zhang, Zhaokun Zhou, Liutao Yu, Liwei Huang, Li Yuan,  Zhengyu Ma\*, Xiaopeng Fan, Huihui Zhou\*, and Yonghong Tian\*.  <br>
@@ -66,7 +66,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 ## Education and Working Experience
 {: #Education .section-title }
 
-- 2025 – Present, Phd student, Peking university
+- 2025 – Now, Phd student, Peking university
 - 2022 – 2025, Research Engineer, Pengcheng Laboratory
 - 2019 – 2022, Master, University of Chinese Academy of Sciences
 - 2015 – 2019, bachelor, ChongQing JiaoTong University
