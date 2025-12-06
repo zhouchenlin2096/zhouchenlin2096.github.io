@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, welcome to my website! I am a phd student at [Peking University](https://www.pku.edu.cn/). Before that, I work at [Peng Cheng Laboratory](https://www.pcl.ac.cn/) as an engineer.  I received my Master's degree from 
+Hello, welcome to my website! I am a phd student at [Peking University](https://www.pku.edu.cn/). Before that, I work at [Pengcheng Laboratory](https://www.pcl.ac.cn/) as an engineer.  I received my Master's degree from 
 [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) / studied in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) in 2022. 
 
 ###  Call for Collaboration
@@ -24,7 +24,7 @@ Feel free to contact me if you are interested in my research!
 {: #News .section-title }
 [2025] I became a Phd student at [Peking University](https://www.pku.edu.cn/).
 
-[2022] I joined [Peng Cheng Laboratory](https://www.pcl.ac.cn/) as a research engineer.
+[2022] I joined [Pengcheng Laboratory](https://www.pcl.ac.cn/) as a research engineer.
 
 [2022] Graduated from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/).
 
@@ -67,9 +67,9 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 {: #Education .section-title }
 
 - 2025 – Now, Phd student, Peking university
-- 2022 – 2025, Research Engineer, Pengcheng Laboratory
+- 2022 – 2025, Research engineer, Pengcheng Laboratory
 - 2019 – 2022, Master, University of Chinese Academy of Sciences
-- 2015 – 2019, bachelor, ChongQing JiaoTong University
+- 2015 – 2019, Bachelor, ChongQing JiaoTong University
 
 <!-- <div class="edu-container">
 
