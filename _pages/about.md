@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello, welcome to my website! I am currently a Ph.D. student at [Peking University](https://www.pku.edu.cn/), (since Sep. 2025), advised by Prof.[Yonghong Tian](https://ai4s.pkusz.edu.cn/info/1049/1208.htm). Before this, I worked as an algorithm engineer at [Pengcheng Laboratory](https://www.pcl.ac.cn/).  I received my Master's degree from University of Chinese Academy of Sciences / studied in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) in 2022, advised by Prof.[Peng Wang](https://ia.cas.cn/rcdw/qch/202404/t20240422_7129917.html).
 
-###  Call for Collaboration !
+###  Call for Collaboration!
 My current research interests mainly focus on: 
 - **LLM quantization, sparse, efficient reasoning**
 - **Spiking Neural Networks, Spiking Transformers, Brain-inspired computing**
