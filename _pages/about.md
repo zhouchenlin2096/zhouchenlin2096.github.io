@@ -50,7 +50,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2024</span> [Hierarchical Spiking Transformer using Q-K Attention](https://arxiv.org/pdf/2403.16552v2),
    <ins>**Chenlin Zhou**</ins>, Han Zhang, Zhaokun Zhou, Liutao Yu, Liwei Huang, Li Yuan,  Zhengyu Ma\*, Xiaopeng Fan, Huihui Zhou\*, and Yonghong Tian\*.  <br>
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Frontiers in Neuroscience 2024.</span>[Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods](https://arxiv.org/pdf/2405.04289),
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Frontiers in Neuroscience 2024</span>[Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods](https://arxiv.org/pdf/2405.04289),
    <ins>**Chenlin Zhou**</ins>, Han Zhang, Liutao Yu, Yumin Ye, Zhaokun Zhou, Liwei Huang, Zhengyu Ma\*, Xiaopeng Fan, Huihui Zhou, and Yonghong Tian. <br>
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TIM 2021</span> [ACR-Net: Attention Integrated and Cross-spatial Feature Fused Rotation Network for Tubular Solder Joint Detection](https://ieeexplore.ieee.org/abstract/document/9475052/),
